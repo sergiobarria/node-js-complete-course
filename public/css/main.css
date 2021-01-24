@@ -48,9 +48,7 @@ main {
 .main-header__item a:hover,
 .main-header__item a:active,
 .main-header__item a.active {
-<<<<<<< HEAD
   color: #30475e;
-=======
   color: #ffeb3b;
 }
 
@@ -86,13 +84,13 @@ main {
 }
 
 .card__actions {
-    padding: 1rem;
-    text-align: center;
+  padding: 1rem;
+  text-align: center;
 }
 
 .card__actions button,
 .card__actions a {
-    margin: 0 0.25rem;
+  margin: 0 0.25rem;
 }
 
 .btn {
@@ -108,5 +106,4 @@ main {
 .btn:active {
   background-color: #00695c;
   color: white;
->>>>>>> 06-dynamic-data-templates
 }
